@@ -1,0 +1,20 @@
+{
+  "name": "crud-funcionarios",
+  "version": "1.0.0",
+  "description": "Sistema de gerenciamento de funcionários em Node.js",
+  "main": "crudFuncionarios.js",
+  "scripts": {
+    "start": "node crudFuncionarios.js",
+    "format": "prettier --write ."
+  },
+  "keywords": [
+    "crud",
+    "funcionarios",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^3.0.0"
+  }
+}
